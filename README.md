@@ -14,5 +14,5 @@ This is a real-time chat application built using **Socket.io** and **Express**. 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/sajjadalidev/chat-websocket.git
+  [ git clone https://github.com/sajjadalidev/chat-websocket.git](https://github.com/sajjadalidev/chat-websocket.git)
    ```
